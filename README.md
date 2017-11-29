@@ -9,3 +9,5 @@ To get this to run, you might need to press build -> clean project in Android St
 
 ## Screenshots
 Three screenshots of the app can be found in the doc folder.
+
+[![BCH compliance](https://bettercodehub.com/edge/badge/d0uwe/resto-revised?branch=master)](https://bettercodehub.com/)
